@@ -124,7 +124,7 @@ Both are required, but feel free to skip straight to the second course when CS50
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-~~[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | none~~
+~~[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/))~~ | 12 weeks | 10-20 hours/week | none
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra
 
 ## Core CS
